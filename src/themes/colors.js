@@ -1,0 +1,16 @@
+export const colors = {
+  balck: "#070724",
+  white: "#fff",
+  darkGrey: "#38384F",
+  grey: "#F6F5F5",
+  lightGreen: "#419EBB",
+  orange: "#EDA249",
+  purple: "#6F2Ed6",
+  darkOrange: "#D14C32",
+  red: "#D83A34",
+  lightRed: "#CD5120",
+  green: "#0BCE83",
+  blue: "#A259FF",
+  primary: "#2D0C57",
+  secondery: "#9586A8",
+};
